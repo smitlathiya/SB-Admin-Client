@@ -1,0 +1,9 @@
+$theme-colors: (
+    "primary": #6f42c1,
+    "danger": #dc3545,
+    "secondary": #6c757d,
+    "card-cap-bg": #583697
+);
+
+@import '~bootstrap/scss/bootstrap.scss';
+@import "~/node_modules/placeholder-loading/src/scss/placeholder-loading"

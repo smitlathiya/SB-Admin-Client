@@ -1,0 +1,20 @@
+table {
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    padding: 15px;
+}
+
+table th {
+    padding: 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    font-size: 16px;
+    font-weight: 600;
+    color: #00000061;
+}
+
+table img {
+    width: 100%;
+    max-width: 45px;
+    border-radius: 10px;
+}
